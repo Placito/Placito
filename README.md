@@ -1,6 +1,10 @@
 ### Hi 👋, I'm Mariana Plácito
 ### A passionate full stack developer that enjoy life and the adventure of living it 🙂
 
+- 🔭 I’m currently working on [Bycicle_shop](https://github.com/4GeeksAcademy/Bycicle_shop)
+- 🌱 I’m currently learning **Full-Stack Software Developer at 4Geeks**
+- 📫 How to reach me: **mariana.placito@gmail.com**
+
 <!--
 **Placito/Placito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
