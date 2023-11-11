@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Mariana Plácito
 ### A passionate full stack developer that enjoy life and the adventure of living it 🙂
 
-- 🔭 I’m currently working on [GEST_gestão-de-tarefas ]([https://github.com/Placito/GEST_gest-o-de-tarefas])
+- 🔭 I’m currently working on [GEST_gestão-de-tarefas ](https://github.com/Placito/GEST_gest-o-de-tarefas)
 - 🌱 I’m currently learning **JavaScript**
 - 📫 How to reach me by email: **mariana.placito@gmail.com**
 - <img src='https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473' alt='linkedin' height='10'>  How to reach me by linkedin: [Placito](https://www.linkedin.com/in/mariana-pl%C3%A1cito-a4242177/) 
