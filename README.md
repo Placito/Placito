@@ -9,7 +9,8 @@
 
 
 
-- 🌱 I’m currently learning **UDACITY Nanodegree Program - Front End Web Developer**
+- 🌱 I’m currently learning in **UDACITY Nanodegree Program - Front End Web Developer**
+
 
 
 
