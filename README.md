@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Mariana Plácito
 ### A passionate full stack developer that enjoy life and the adventure of living it 🙂
 
-- 🔭 I’m currently working on [GEST_Tasks](https://github.com/Placito/GEST_tasks)
+- 🔭 I’m currently working on [LAUNCH IT](https://github.com/Launch-IT-services)
 
 
 
