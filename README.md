@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning in **UDACITY Nanodegree Program - Full Stack Web Developer**
+- 🌱 I’m currently learning **Python and Flask**
 
 
 
