@@ -1,7 +1,7 @@
 <div align="center">
 
-<strong><h1>Hi 👋</h1>
-<h1>I'm Mariana Plácito</h1></strong>
+# Hi 👋
+# I'm Mariana Plácito
 
 </div>
 
