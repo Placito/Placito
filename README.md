@@ -1,5 +1,8 @@
-### Hi 👋
-### I'm Mariana Plácito
+<div align="center">
+  Hi 👋<br>
+  I'm Mariana Plácito
+</div>
+
 ### A passionate full stack developer that enjoy life and the adventure of living it 🙂
 
 - 🔭 I’m currently working at [LAUNCH IT](https://www.linkedin.com/company/launch-it-services/)
