@@ -1,7 +1,10 @@
-### <div align="center">
-###    Hi 👋<br>
-###    I'm Mariana Plácito
-### </div>
+<div align="center">
+
+<strong><h1>Hi 👋</h1></strong>
+<strong><h1>I'm Mariana Plácito</h1></strong>
+
+</div>
+
 
 ### A passionate full stack developer that enjoy life and the adventure of living it 🙂
 
