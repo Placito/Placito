@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hi 👋
-# I'm Mariana Plácito
+<strong>Hi 👋<br>I'm Mariana Plácito</strong>
 
 </div>
 
