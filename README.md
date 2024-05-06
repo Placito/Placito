@@ -15,7 +15,7 @@
 
 
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Python, Flask and React**
 
 
 
