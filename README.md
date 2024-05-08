@@ -4,6 +4,8 @@
 
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=placitoo&color=red" alt="Profile views" /> </p>
+
 
 ### A passionate full stack developer that enjoy life and the adventure of living it 🙂
 
@@ -39,3 +41,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Contact
+
+<a href="https://www.linkedin.com/in/mariana-pl%C3%A1cito-a4242177/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Plácito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/mplacito/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Plácito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
