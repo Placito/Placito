@@ -45,9 +45,14 @@ Here are some ideas to get you started:
 ## Contact
 
 <a href="https://www.linkedin.com/in/mariana-pl%C3%A1cito-a4242177/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Plácito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-placito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/mplacito/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Plácito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-mplacito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-</p>
+<!--<a href="mariana.placito@gmail.com" target="_blank">
+ <img align="center" src="mariana.placito@gmail.com-mplacito-05122A?style=flat&logo=gmail" alt="personal email"/>
+</a>
+<a href="placito.mariana@launch-it.eu" target="_blank">
+ <img align="center" src="placito.mariana@launch-it.eu-Launch-IT-05122A?style=flat&logo=gmail alt="Professional email"/>
+</a>-->
