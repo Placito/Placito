@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=placitoo&color=blue" alt="Profile views" />
 
 
-### A passionate full stack developer that enjoy life and the adventure of living it 🙂
+### 🙂 A passionate full stack developer that enjoy life and the adventure of living it 🌍
 
 - 🔭 I’m currently working at [Launch IT](https://www.linkedin.com/company/launch-it-services/)
 
