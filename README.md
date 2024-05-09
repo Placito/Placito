@@ -50,9 +50,11 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/mplacito/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-mplacito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<!--<a href="mariana.placito@gmail.com" target="_blank">
- <img align="center" src="mariana.placito@gmail.com-mplacito-05122A?style=flat&logo=gmail" alt="personal email"/>
+<!-- To make the email links work and open an email client when clicked, you should use the mailto: protocol in your HTML anchor (<a>) tags. This protocol allows you to create a link that opens the user's default email client with the email address pre-filled, ready to send a message. -->
+<a href="mailto:mariana.placito@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="personal email"/>
 </a>
-<a href="placito.mariana@launch-it.eu" target="_blank">
- <img align="center" src="placito.mariana@launch-it.eu-Launch-IT-05122A?style=flat&logo=gmail alt="Professional email"/>
-</a>-->
+
+<a href="mailto:placito.mariana@launch-it.eu" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Launch_IT-05122A?style=flat&logo=gmail" alt="professional email"/>
+</a>
