@@ -4,7 +4,8 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=placitoo&color=red" alt="Profile views" /> </p>
+<img src="https://komarev.com/ghpvc/?username=placitoo&color=blue" alt="Profile views" />
+
 
 ### A passionate full stack developer that enjoy life and the adventure of living it 🙂
 
