@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=placitoo&color=red" alt="Profile views" /> </p>
 
-
 ### A passionate full stack developer that enjoy life and the adventure of living it 🙂
 
 - 🔭 I’m currently working at [Launch IT](https://www.linkedin.com/company/launch-it-services/)
@@ -38,6 +37,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 ## Contact
 
