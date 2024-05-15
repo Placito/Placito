@@ -45,9 +45,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mariana-pl%C3%A1cito-a4242177/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-placito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://twitter.com/MarianaPla50656" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-MarianaPla50656-05122A?style=flat&logo=x" alt="twitter"/>
-</a>
 
 <a href="https://www.instagram.com/mplacito/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-mplacito-05122A?style=flat&logo=instagram" alt="instagram"/>
