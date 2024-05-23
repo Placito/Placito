@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **Python, Flask**
+- 🌱 I’m currently learning **Python, Flask and React**
 
 
 
