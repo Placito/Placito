@@ -9,7 +9,7 @@
 
 ### A passionate full stack developer that enjoy life and the adventure of living it 🌍  
 
-- 🔭 I’m currently working at [Launch IT](https://www.linkedin.com/company/launch-it-services/)
+- 🔭 I’m currently engaged in a private project and Committed to my professional career and personal growth, I strive to learn and evolve continuously.
 
 
 
