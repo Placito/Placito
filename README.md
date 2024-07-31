@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.instagram.com/mplacito/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/>
+  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <!-- To make the email links work and open an email client when clicked, you should use the mailto: protocol in your HTML anchor (<a>) tags. This protocol allows you to create a link that opens the user's default email client with the email address pre-filled, ready to send a message. -->
