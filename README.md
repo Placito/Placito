@@ -9,7 +9,7 @@
 
 ### A passionate full stack developer that enjoy life and the adventure of living it 🌍  
 
-- 🔭 I’m currently engaged in a private project and Committed to my professional career and personal growth.
+- 🔭 I’m currently engaged in a private project and personnal projects.
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and javascript**
 
 
 
