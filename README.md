@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular and Typescript**
 
 
 
