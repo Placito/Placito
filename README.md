@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **Angular and Typescript**
+- 🌱 I’m currently learning **React and Node**
 
 
 
