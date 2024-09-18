@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ## Contact
 
 <a href="https://www.linkedin.com/in/mariana-pl%C3%A1cito-a4242177/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-placito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/mplacito/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/>
