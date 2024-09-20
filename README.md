@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently learning **TypeScript**
 
 
 
