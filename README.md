@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Python**
 
 
 
