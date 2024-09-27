@@ -9,7 +9,7 @@
 
 ### A passionate full stack developer that enjoy life and the adventure of living it 🌍  
 
-- 🔭 I’m currently working on a private and a personnal project.
+- 🔭 I’m currently working on personnal projects.
 
 
 
