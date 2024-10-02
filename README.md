@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Python and Node.js**
 
 
 
