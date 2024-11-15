@@ -9,7 +9,7 @@
 
 ### A passionate Full Stack Developer that enjoy life and the adventure of living it 🌍  
 
-- 🔭 I’m currently working on [speedchallenge](https://github.com/Placito/speedchallenge)
+- 🔭 I’m currently working on a private and personal projects
 
 
 
