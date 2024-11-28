@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **React and JavaScript**
+- 🌱 I’m currently learning **Ruby**
 
 
 
