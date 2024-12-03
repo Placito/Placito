@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **RedwoodJS**
 
 
 
