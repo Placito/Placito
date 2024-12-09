@@ -18,7 +18,7 @@
 
 
 
-- 🌱 I’m currently learning **RedwoodJS**
+- 🌱 I’m currently learning **JavaScript and CSS**
 
 
 
