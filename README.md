@@ -46,9 +46,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mariana-pl%C3%A1cito-a4242177/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://discord.com/channels/@me" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&logoColor=white" alt="discord"/>
-</a>
 <!-- To make the email links work and open an email client when clicked, you should use the mailto: protocol in your HTML anchor (<a>) tags. This protocol allows you to create a link that opens the user's default email client with the email address pre-filled, ready to send a message. -->
 <a href="mailto:mariana.placito@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="personal email"/>
