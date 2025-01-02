@@ -9,7 +9,7 @@
 
 ### A passionate Full Stack Developer that enjoy life and the adventure of living it 🌍  
 
-- 🔭 I’m currently working on - Advent of JavaScript and CSS
+- 🔭 I’m currently working on - Advent CSS
  2024
 
 
@@ -18,7 +18,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript and CSS**
+- 🌱 I’m currently learning **JavaScript and React**
 
 
 
