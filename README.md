@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Rust and the Tauri framework**
 
 
 
