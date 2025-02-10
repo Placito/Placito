@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **Rust and the Tauri framework**
+- 🌱 I’m currently learning **Next.js and Tailwind CSS**
 
 
 
