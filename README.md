@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **Next.js and Tailwind CSS**
+- 🌱 I’m currently learning **OutSystems**
 
 
 
