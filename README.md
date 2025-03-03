@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Certified Full Stack Developer Curriculum** at [freecodecamp](https://www.freecodecamp.org/)
 
 
 
