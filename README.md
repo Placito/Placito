@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaSvript and Front End libraries
+- 🌱 I’m currently learning **JavaSvript and Front End libraries**
 
 
 
