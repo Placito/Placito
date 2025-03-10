@@ -9,14 +9,14 @@
 
 ### A passionate Full Stack Developer that enjoy life and the adventure of living it 🌍  
 
-- 🔭 I’m currently working on a **Certified Full Stack Developer Curriculum** at [freecodecamp](https://www.freecodecamp.org/)
+- 🔭 I’m currently working on a **Personal project** 
 
 
 
 
 
 
-- 🌱 I’m currently learning **JavaScript and Front End libraries**
+- 🌱 I’m currently learning **OutSystems and SQL**
 
 
 
