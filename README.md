@@ -9,7 +9,7 @@
 
 ### A passionate Software Developer that enjoy life and the adventure of living it 🌍  
 
-- 🔭 I’m currently working on a **Personal project** 
+- 🔭 I’m currently working at [valantic LCS](https://www.linkedin.com/company/valantic-lcs/posts/?feedView=all)
 
 
 
