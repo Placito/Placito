@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **OutSystems and SQL**
+- 🌱 I’m currently learning **OutSystems**
 
 
 
