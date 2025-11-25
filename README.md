@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **AI Workflow's**
+- 🌱 I’m currently learning **HTML/CSS and JavaScript**
 
 
 
