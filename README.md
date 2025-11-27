@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://discord.com/users/1178766684773941252" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://img.shields.io/badge/Discord-Server-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord Server"/>
+  <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/>
 </a>
+
 
 
