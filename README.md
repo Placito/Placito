@@ -41,19 +41,21 @@ Here are some ideas to get you started:
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/mariana-pl%C3%A1cito-a4242177/" target="_blank" rel="noopener noreferrer">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="20" height="20" alt="LinkedIn Icon" />
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn" />
+<div style="display-flex" gap="20px">
+   <a href="https://www.linkedin.com/in/mariana-pl%C3%A1cito-a4242177/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" Color="ffffff" width="20" height="20" alt="LinkedIn Icon" />
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
 </a>
-
-<!-- To make the email links work and open an email client when clicked, you should use the mailto: protocol in your HTML anchor (<a>) tags. This protocol allows you to create a link that opens the user's default email client with the email address pre-filled, ready to send a message. -->
-<a href="mailto:mariana.placito@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="personal email"/>
-</a>
-
-<a href="https://discord.com/users/1178766684773941252" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/>
-</a>
+   
+   <!-- To make the email links work and open an email client when clicked, you should use the mailto: protocol in your HTML anchor (<a>) tags. This protocol allows you to create a link that opens the user's default email client with the email address pre-filled, ready to send a message. -->
+   <a href="mailto:mariana.placito@gmail.com" target="_blank">
+       <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail&color=ffffff" alt="personal email"/>
+   </a>
+   
+   <a href="https://discord.com/users/1178766684773941252" target="_blank" rel="noopener noreferrer">
+     <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+   </a>
+ </div>
 
 
 
