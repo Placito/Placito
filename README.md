@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   
   <!-- LinkedIn -->
    <a href="https://www.linkedin.com/in/mariana-pl%C3%A1cito-a4242177/" target="_blank" rel="noopener noreferrer">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" Color="ffffff" width="20" height="20" alt="LinkedIn Icon" />
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="20" height="20" alt="LinkedIn Icon" />
       <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
    </a>
   
