@@ -9,7 +9,7 @@
 
 ### A passionate Developer that enjoy life and the adventure of living it 🌍  
 
-- 🔭 Currently fworking on a Christmas game.
+- 🔭 Currently working on a Christmas game.
 
 
 
