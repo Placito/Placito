@@ -9,14 +9,14 @@
 
 ### A passionate Developer that enjoy life and the adventure of living it 🌍  
 
-- 🔭 Currently focused on developing personal projects and advancing my skills.
+- 🔭 Currently fworking on a Christmas game.
 
 
 
 
 
 
-- 🌱 I’m currently learning **HTML/CSS and JavaScript**
+- 🌱 I’m currently learning **Python**
 
 
 
