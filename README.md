@@ -9,7 +9,7 @@
 
 ### A passionate Developer that enjoy life and the adventure of living it 🌍  
 
-- 🔭 Currently working on a [Christmas game](https://github.com/Placito/Christmas_game)
+- 🔭 Currently focused on developing personal projects and expanding my technical skills.
 
 
 
