@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-pl%C3%A1cito-a4242177/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-pl%C3%A1cito-a4242177/)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/-Email-FFFFFF?style=flat&logo=gmail&logoColor=DD4B39)](mailto:mariana.placito@gmail.com)
 &nbsp;&nbsp;
