@@ -9,7 +9,7 @@
 
 ### A passionate Developer that enjoy life and the adventure of living it 🌍  
 
-- 🔭 Currently focused on [mini-projetos](https://github.com/Placito/mini-projetos
+- 🔭 Currently focused on [mini-projetos](https://github.com/Placito/mini-projetos)
 
 
 
