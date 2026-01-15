@@ -9,7 +9,7 @@
 
 ### A passionate Developer that enjoy life and the adventure of living it 🌍  
 
-- 🔭 Currently focused on personnal on personal growth.
+- 🔭 Currently focused on personal growth.
 
 
 
