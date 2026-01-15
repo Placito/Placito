@@ -9,14 +9,14 @@
 
 ### A passionate Developer that enjoy life and the adventure of living it 🌍  
 
-- 🔭 Currently focused on [mini-projetos](https://github.com/Placito/mini-projetos)
+- 🔭 Currently focused on personnal on personal growth.
 
 
 
 
 
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **React and Next.js**
 
 
 
