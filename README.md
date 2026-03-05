@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 I’m currently learning **Data visualization - Power BI**
 
 
 
