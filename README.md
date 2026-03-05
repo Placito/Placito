@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **Data visualization - Power BI**
+- 🌱 I’m currently learning **Data visualization - *Power BI***
 
 
 
