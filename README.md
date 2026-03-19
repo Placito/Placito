@@ -9,7 +9,7 @@
 
 ### A passionate Developer that enjoy life and the adventure of living it 🌍  
 
-- 🔭 Currently focused on personal growth.
+- 🔭 I’m currently working on [Datatekin](https://www.linkedin.com/company/datatekin/posts/?feedView=all)
 
 
 
