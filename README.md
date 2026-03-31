@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=placitoo&color=blue" alt="Profile views" />
 
 
-### A passionate Developer that enjoy life and the adventure of living it 🌍  
+### A passionate Developer and a Digital Analytics that enjoy life and the adventure of living it 🌍  
 
 - 🔭 I’m currently working on [Datatekin](https://www.linkedin.com/company/datatekin/posts/?feedView=all)
 
