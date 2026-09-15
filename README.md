@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning ** Microsoft Azure and Databricks**
+- 🌱 I’m currently learning **Microsoft Azure and Databricks**
 
 
 
