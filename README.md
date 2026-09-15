@@ -9,7 +9,7 @@
 
 ### A passionate Developer and a Digital Analytics that enjoy life and the adventure of living it 🌍  
 
-- 🔭 I’m currently working on [Datatekin](https://www.linkedin.com/company/datatekin/posts/?feedView=all)
+- 🔭 I’m currently working on personnal projects 
 
 
 
